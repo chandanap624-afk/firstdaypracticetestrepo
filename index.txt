@@ -1,0 +1,8 @@
+Q1: What is Java?
+A: Java is a high-level, object-oriented programming language.
+
+Q2: What is JVM?
+A: JVM stands for Java Virtual Machine.
+
+Q3: What is OOP?
+A: OOP stands for Object-Oriented Programming.
